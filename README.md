@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marhamjarry&bg_color=ffffff00&color=0e75b6&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+[![Arham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marhamjarry&theme=github-compact&hide_border=true)](https://github.com/marhamjarry)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marhamjarry&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=marhamjarry" alt="GitHub Trophies" />
 
 </div>
 
@@ -163,7 +163,11 @@ https://marhamjarry.github.io/Discover-World-/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marhamjarry/marhamjarry/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marhamjarry/marhamjarry/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marhamjarry/marhamjarry/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/marhamjarry/marhamjarry/output/github-snake.svg">
+</picture>
 
 </div>
 
