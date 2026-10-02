@@ -47,7 +47,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  ### 🌐 Frontend  
+  # 🌐 Frontend  
 <div>
 
 <p align="center">
@@ -55,7 +55,7 @@
 </p>
 
 <div align="center">
-### ⚙️ Backend & Database
+# ⚙️ Backend & Database
 <div>
 
 <p align="center">
@@ -63,7 +63,7 @@
 </p>
 
 <div align="center">
-### 🔧 Tools & DevOps
+# 🔧 Tools & DevOps
 <div>
   
 <p align="center">
