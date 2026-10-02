@@ -90,8 +90,6 @@
 
 ## 📈 Contribution Activity
 
-## 📈 Contribution Activity
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marhamjarry&bg_color=ffffff00&color=0e75b6&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
