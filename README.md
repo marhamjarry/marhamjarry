@@ -48,19 +48,19 @@
 
 ### 🌐 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nextjs" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postgresql,firebase,graphql" alt="Backend Technologies"/>
 </p>
 
 ### 🔧 Tools & DevOps
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm" alt="Tools and DevOps"/>
 </p>
 
