@@ -46,25 +46,20 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  # 🌐 Frontend  
-<div>
+### 🌐 Frontend  
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nextjs" alt="Frontend Technologies"/>
 </p>
 
-<div align="center">
-# ⚙️ Backend & Database
-<div>
+### ⚙️ Backend & Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postgresql,firebase,graphql" alt="Backend Technologies"/>
 </p>
 
-<div align="center">
-# 🔧 Tools & DevOps
-<div>
+### 🔧 Tools & DevOps
   
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm" alt="Tools and DevOps"/>
