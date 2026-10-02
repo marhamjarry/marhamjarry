@@ -1,219 +1,204 @@
-<h1 align="center">Hi 👋, I'm Muhammad Arham Jarry</h1>
+<div align="center">
 
-<h3 align="center">
-  Front-End Developer from Pakistan 🇵🇰
-</h3>
+# 👋 Hi, I'm Muhammad Arham Jarry
 
-<p align="center">
+### 💻 Frontend Developer | Full-Stack Developer in Progress | Pakistan 🇵🇰
+
+<p>
   <a href="https://github.com/marhamjarry">
-    <img src="https://komarev.com/ghpvc/?username=marhamjarry&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=marhamjarry&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/marhamjarry">
-    <img src="https://img.shields.io/github/followers/marhamjarry?label=Followers&style=flat" alt="GitHub Followers" />
+  <a href="https://github.com/marhamjarry?tab=followers">
+    <img src="https://img.shields.io/github/followers/marhamjarry?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/marhamjarry?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-36-blue?style=flat" alt="Repositories" />
+    <img src="https://img.shields.io/github/stars/marhamjarry?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars"/>
   </a>
 </p>
+
+<p>
+  <a href="https://github.com/marhamjarry">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marhamjarry/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marhamjarry@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 * 🔭 Currently working on **Web Development Projects**
 * 🌱 Currently learning **JavaScript, PHP & MySQL**
-* 💻 Building responsive websites with **HTML, CSS & Bootstrap**
-* 🚀 Improving my **JavaScript and Front-End Development** skills
+* 💻 Interested in **Frontend & Full-Stack Development**
 * 🤝 Open to collaborating on **Web Development Projects**
-* 📚 Continuously learning and building practical projects
-* 🇵🇰 Based in **Pakistan**
+* 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript & Responsive Design**
+* 📚 Continuously improving my **Programming & Development Skills**
+* ⚡ Fun fact: **I enjoy turning ideas into websites**
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Tech Stack
 
-```text
-HTML & CSS          ████████████████████  Advanced
-Bootstrap           ██████████████████░░  Strong
-JavaScript          ████████████░░░░░░░░  Learning
-PHP                 ████████░░░░░░░░░░░░  Learning
-MySQL               ████████░░░░░░░░░░░░  Learning
-Git & GitHub        ████████████████░░░░  Strong
-```
+### 🌐 Frontend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nextjs" alt="Frontend Technologies"/>
+</p>
 
-## 🛠️ Languages & Tools
+### ⚙️ Backend & Database
 
-<p align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postgresql,firebase,graphql" alt="Backend Technologies"/>
+</p>
 
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-</a>
+### 🔧 Tools & DevOps
 
-<a href="https://www.w3.org/Style/CSS/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
-</a>
-
-<a href="https://www.php.net/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm" alt="Tools and DevOps"/>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marhamjarry&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=marhamjarry&hide_border=true" width="49%" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhamjarry&layout=compact&hide_border=true&langs_count=8" width="42%" alt="Top Languages"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marhamjarry&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhamjarry&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=marhamjarry&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marhamjarry&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marhamjarry&bg_color=ffffff00&color=0e75b6&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marhamjarry&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=marhamjarry&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### 🏗️ Builder Website
 
-A website project currently under development.
+A responsive web project focused on building a modern website experience.
 
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/marhamjarry/Builder-Website)
-
----
-
-### 🌍 TimeVoyager Web
-
-A web development project focused on creating an interactive and responsive experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [Live Project](https://marhamjarry.github.io/Timevoyager-Web/)
+🔗 **Repository:**
+https://github.com/marhamjarry/Builder-Website
 
 ---
 
-### 🌎 Discover World
+### ⏳ TimeVoyager Web
 
-A responsive front-end web project built to practice modern website structure and responsive design.
+A web development project showcasing frontend design and implementation.
 
-**Tech:** HTML • CSS • JavaScript
+🔗 **Live Demo:**
+https://marhamjarry.github.io/Timevoyager-Web/
 
-🔗 [Live Project](https://marhamjarry.github.io/Discover-World-/)
+---
+
+### 🌍 Discover World
+
+A responsive frontend project focused on exploring destinations and web presentation.
+
+🔗 **Live Demo:**
+https://marhamjarry.github.io/Discover-World-/
 
 ---
 
 ## 📌 More Projects
 
-<p align="center">
-  <a href="https://github.com/marhamjarry?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/marhamjarry?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories"/>
+</a>
+
+</div>
 
 ---
 
-## 📅 My Contribution Calendar
+## 📊 Repository Statistics
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/marhamjarry" alt="Muhammad Arham Jarry Contribution Graph" width="100%"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=marhamjarry&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Overview&theme=transparent" alt="Repository Statistics"/>
 
-## 💡 What I'm Learning
-
-```text
-Frontend
-├── HTML5
-├── CSS3
-├── Bootstrap
-└── JavaScript
-
-Backend
-├── PHP
-└── MySQL
-
-Tools
-├── Git
-├── GitHub
-└── VS Code
-```
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/marhamjarry/marhamjarry/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> **Note:** The snake animation requires a GitHub Actions workflow in your profile repository.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/marhamjarry">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marhamjarry/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/arham_jarry/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:marhamjarry@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://instagram.com/arham_jarry">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-  💻 Build • Learn • Improve • Repeat
-</h3>
+<div align="center">
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
-</p>
+### 💡 "Building, learning, and improving — one project at a time."
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+</div>
